@@ -8,7 +8,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=AayushSingh&style=flat-square)](https://github.com/AayushSingh)
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech in Computer Science & Engineering (Top Government College)  
+- 🎓 B.Tech in Computer Science & Engineering (Netaji Subhas University Of Technology, Delhi )  
 - 🤖 Passionate about building AI/ML-powered tools and Web3 dApps  
 - 💼 Currently developing an AI-powered legal document analyzer tailored for Indian users  
 - 🌱 Learning advanced TypeScript patterns & scalable GenAI architectures  
