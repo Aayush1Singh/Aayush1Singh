@@ -50,11 +50,6 @@
 - Designing scalable micro-frontends with Next.js App Router  
 - Security best practices for smart contracts  
 
-## 📫 How to Reach Me
-- ✉️ Email: aayush.singh@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/aayush-singh](https://linkedin.com/in/aayush-singh)  
-- 🐦 Twitter: [@AayushSinghDev](https://twitter.com/AayushSinghDev)  
-
 ---
 
 > “Strive not to be a success, but rather to be of value.” — Albert Einstein  
