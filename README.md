@@ -58,6 +58,20 @@
     <td align="center"><img src="https://img.shields.io/badge/Redis_Vector_Search-DC382D?style=flat-square"/></td>
     <td></td>
   </tr>
+  <tr>
+    <td align="center">
+  <img src="https://img.shields.io/badge/LangChain-FF6C44?style=flat-square&logo=langchain&logoColor=white"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/LlamaIndex-13A8A8?style=flat-square&logo=llamaindex&logoColor=white"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/ChromaDB-8A2BE2?style=flat-square&logo=chromadb&logoColor=white"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/Pinecone-623CEA?style=flat-square&logo=pinecone&logoColor=white"/>
+</td>
+  </tr>
 </table>
 
 ## 🌱 What I’m Learning
