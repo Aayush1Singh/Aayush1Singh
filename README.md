@@ -12,12 +12,12 @@
 - 🤖 Passionate about building AI/ML-powered tools and Web3 dApps  
 - 💼 Currently developing an AI-powered legal document analyzer tailored for Indian users  
 - 🌱 Learning advanced TypeScript patterns & scalable GenAI architectures  
-- 💬 Ask me about React / Next.js, FastAPI, smart contracts, or full-stack design!  
+- 💬Specialist @Codeforces & Knight @LeetCode
 
-## 🔭 Current Projects
-- **AI Legal Tool** – Document analyzer that detects bias, flags unfair clauses, and suggests improvements. (Python, Redis, Gemini API, FastAPI)  
+## 🔭 Some Projects
+- **AI Legal Tool** – Document analyzer that detects bias, flags unfair clauses, and suggests improvements. (Python, Redis, Gemini, Perplexity, FastAPI)  
 - **PloughIt** – Blockchain-backed contract-farming marketplace with bidding and smart contracts. (Next.js, Solidity, Express, Hardhat)  
-- **Content Sentinel** – Chrome extension to detect and mask harmful content on the web. (JavaScript, Readability, Gemini API)  
+- **Content Sentinel** – Chrome extension to detect and mask harmful content on the web. (JavaScript, Readability, Gemini)  
 - **Sign2Text** – Real-time sign language to text converter using computer vision & Tkinter GUI. (Python, OpenCV, CNN)  
 - **Temperature-Controlled Fan** – Embedded C++ microcontroller project with buzzer and sensor integration.  
 
@@ -77,7 +77,6 @@
 ## 🌱 What I’m Learning
 - Advanced GenAI pipelines & vector search  
 - Designing scalable micro-frontends with Next.js App Router  
-- Security best practices for smart contracts  
 - Deepening knowledge of FastAPI & asynchronous Python  
 
 ---
