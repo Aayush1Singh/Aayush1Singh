@@ -5,7 +5,7 @@
 
 # Hi there, I’m Aayush Singh 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=Aayush1Singh&style=flat-square)](https://github.com/Aayush1Singh)
+
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech in Computer Science & Engineering (Netaji Subhas University Of Technology, Delhi )  
